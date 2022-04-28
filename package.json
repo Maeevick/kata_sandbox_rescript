@@ -10,7 +10,7 @@
     "build:watch": "npm run clean && rescript build -with-deps -w",
     "test": "npm run build && pta 'src/*.test.mjs'",
     "test:watch": "onchange --initial 'src/*.res' -- npm run test",
-    "test:coverage": "c8 --all pta 'src/*.test.mjs'"
+    "test:coverage": "npm run test && c8 --all pta 'src/*.test.mjs'"
   },
   "repository": {
     "type": "git",
