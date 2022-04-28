@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "A minimalist sandbox/boilerplate to start kata in rescript",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "clean": "rescript clean -with-deps",
+    "build": "npm run clean && rescript",
+    "start": "npm run clean && rescript build -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
