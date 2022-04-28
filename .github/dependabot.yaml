@@ -1,0 +1,12 @@
+version: 2
+
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: "daily"
+  assignees:
+    - "Maeevick"
+  reviewers:
+    - "Maeevick"
+  open-pull-requests-limit: 10
