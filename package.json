@@ -1,0 +1,24 @@
+{
+  "name": "kata_sandbox_rescript",
+  "version": "1.0.0",
+  "description": "A minimalist sandbox/boilerplate to start kata in rescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maeevick/kata_sandbox_rescript.git"
+  },
+  "keywords": [
+    "TDD",
+    "CodingKata",
+    "ReScript"
+  ],
+  "author": "Maeevick - GoblinsAtCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maeevick/kata_sandbox_rescript/issues"
+  },
+  "homepage": "https://github.com/Maeevick/kata_sandbox_rescript#readme"
+}
