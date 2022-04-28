@@ -1,0 +1,13 @@
+name: kata_sandbox_rescript
+on: [push]
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install
+      - run: npm audit
+      - run: npm run test:coverage
