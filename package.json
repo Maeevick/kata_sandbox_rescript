@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Maeevick/kata_sandbox_rescript/issues"
   },
-  "homepage": "https://github.com/Maeevick/kata_sandbox_rescript#readme"
+  "homepage": "https://github.com/Maeevick/kata_sandbox_rescript#readme",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  }
 }
