@@ -9,6 +9,8 @@ Just a minimalist sandbox/boilerplate to train your skills with rescript on kata
 npm i
 ```
 
+[Rescript Documentation](https://rescript-lang.org/docs/manual/latest/introduction)
+
 ### Main commands and configs
 
 - compile rescript code to javascript esmodules _there is no linter in this boilerplate, I assume ReScript's strictness is enough_:
