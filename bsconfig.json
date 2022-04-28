@@ -12,6 +12,8 @@
         "in-source": true
       }
     ],
-    "suffix": ".bs.js",
-    "bs-dependencies": []
+    "suffix": ".mjs",
+    "bs-dependencies": [
+      "@dusty-phillips/rescript-zora"
+    ]
   }
