@@ -24,7 +24,7 @@ npm i
     npm run build:watch
     ```
 
-- I drop jest in this boilerplate to [zora](https://github.com/lorenzofox3/zora) with [rescript-zora](https://github.com/dusty-phillips/rescript-zora) (some doc [here](https://dusty.phillips.codes/2021/04/18/introducing-rescript-zora/))
+- I drop jest in this boilerplate to [zora](https://github.com/lorenzofox3/zora) with [rescript-zora](https://github.com/dusty-phillips/rescript-zora) (some doc [here](https://dusty.phillips.codes/2021/04/18/introducing-rescript-zora/) and [there](https://dusty.phillips.codes/2021/08/02/quickly-testing-rescript-with-zora/))
 
   ```shell
   npm run test
