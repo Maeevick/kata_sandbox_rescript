@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Maeevick/kata_sandbox_rescript#readme",
   "devDependencies": {
-    "@dusty-phillips/rescript-zora": "^3.0.0",
+    "@dusty-phillips/rescript-zora": "^3.0.1",
     "c8": "^7.11.2",
     "onchange": "^7.1.0",
     "pta": "^1.0.2",
